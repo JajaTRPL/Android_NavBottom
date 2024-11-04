@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.bottomnavbar_travelapp-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.bottomnavbar_travelapp-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bottomnavbar_travelapp-mergeDebugResources-3:/layout/fragment_order_ticket.xml",
+        "source": "com.example.bottomnavbar_travelapp-main-6:/layout/fragment_order_ticket.xml"
+    },
+    {
+        "merged": "com.example.bottomnavbar_travelapp-mergeDebugResources-3:/layout/fragment_profile.xml",
+        "source": "com.example.bottomnavbar_travelapp-main-6:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.bottomnavbar_travelapp-mergeDebugResources-3:/layout/fragment_home.xml",
+        "source": "com.example.bottomnavbar_travelapp-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.bottomnavbar_travelapp-mergeDebugResources-3:/layout/fragment_select_ticket.xml",
+        "source": "com.example.bottomnavbar_travelapp-main-6:/layout/fragment_select_ticket.xml"
+    },
+    {
+        "merged": "com.example.bottomnavbar_travelapp-mergeDebugResources-3:/layout/fragment_ticket.xml",
+        "source": "com.example.bottomnavbar_travelapp-main-6:/layout/fragment_ticket.xml"
+    }
+]

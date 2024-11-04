@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ticket_types">
+        <item>First Class Ticket</item>
+        <item>Business Class Ticket</item>
+        <item>Economy Class Ticket</item>
+    </array>
+    <color name="black">#FF000000</color>
+    <color name="black2">#1E293B</color>
+    <color name="grey">#F4F4F4</color>
+    <color name="grey2">#B7B7B7</color>
+    <color name="grey3">#EDEDED</color>
+    <color name="purple">#525BFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">BottomNavbar-TravelApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.BottomNavbarTravelApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.BottomNavbarTravelApp.WithActionBar" parent="Theme.Material3.DayNight">
+        <item name="fontFamily">@font/poppins</item>
+    </style>
+</resources>
